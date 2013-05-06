@@ -162,6 +162,120 @@
     "image": "wink.png"
   },
   {
+    "image": "38320/shipit-1364398584.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(shipit)"
+  },
+  {
+    "image": "38320/metal-1364398618.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(metal)"
+  },
+  {
+    "image": "38320/tongue-1364398667.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(tongue)"
+  },
+  {
+    "image": "38320/spam-1364483596.png",
+    "height": "25",
+    "width": "30",
+    "shortcut": "(spam)"
+  },
+  {
+    "image": "38320/gnome-1364501531.png",
+    "height": "25",
+    "width": "17",
+    "shortcut": "(gnome)"
+  },
+  {
+    "image": "38320/fire-1364501859.png",
+    "height": "25",
+    "width": "18",
+    "shortcut": "(fire)"
+  },
+  {
+    "image": "38320/bork-1365515159.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(bork)"
+  },
+  {
+    "image": "38320/poop-1365604341.png",
+    "height": "21",
+    "width": "23",
+    "shortcut": "(poop)"
+  },
+  {
+    "image": "38320/shit-1365604384.png",
+    "height": "21",
+    "width": "23",
+    "shortcut": "(shit)"
+  },
+  {
+    "image": "38320/beard-1365611012.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(beard)"
+  },
+  {
+    "image": "38320/rmill-1365611020.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(rmill)"
+  },
+  {
+    "image": "38320/taeram-1365611047.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(taeram)"
+  },
+  {
+    "image": "38320/jpatching-1365611053.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(jpatching)"
+  },
+  {
+    "image": "38320/gregor-1365783575.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(gregor)"
+  },
+  {
+    "image": "38320/bryan-1365783587.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(bryan)"
+  },
+  {
+    "image": "38320/bgregorski-1365783647.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(bgregorski)"
+  },
+  {
+    "image": "38320/jlynch-1366059091.gif",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(jlynch)"
+  },
+  {
+    "image": "38320/lemmings19-1366059136.gif",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(lemmings19)"
+  },
+  {
+    "image": "38320/nyan-1366405347.gif",
+    "height": "18",
+    "width": "25",
+    "shortcut": "(nyan)"
+  },
+  {
     "image": "chris.png",
     "height": "24",
     "width": "24",
