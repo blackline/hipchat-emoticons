@@ -3,14 +3,16 @@ require "rubygems"
 require "json"
 require "cgi"
 
-BOOKMARKLET = 'alert("Close this dialog and copy the URL, then go back to the terminal!"); ' +
-              'es = emoticons.emoticons.map(function(x) { delete x.regex; return x; });' +
+# slant.png workaround :\ https://github.com/henrik/hipchat-emoticons/pull/10
+# Doubly escaped for Ruby + JS.
+BOOKMARKLET = 'alert("Close this dialog and copy the URL, then go back to the terminal!"); re = new RegExp("^"+config.group_id+"/");' +
+              'es = emoticons.emoticons.map(function(x) { delete x.regex; if (x.image == "slant.png") x.shortcut = ":\\\\"; return x; });' +
               'location.hash = JSON.stringify(es)'
 
 desc "Updates emoticons.json."
 task :default do
 
-  `echo '#{BOOKMARKLET}' | pbcopy`
+  IO.popen("pbcopy", "w") { |f| f << BOOKMARKLET }
   puts "Copied bookmarklet to clipboard."
 
   `open -g https://hipchat.com/chat`
