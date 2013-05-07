@@ -276,6 +276,18 @@
     "shortcut": "(nyan)"
   },
   {
+    "image": "38320/creosote-1367955355.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(creosote)"
+  },
+  {
+    "image": "38320/fat-1367955360.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(fat)"
+  },
+  {
     "image": "chris.png",
     "height": "24",
     "width": "24",
@@ -1066,5 +1078,11 @@
     "height": "25",
     "width": "25",
     "shortcut": "(grumpycat)"
+  },
+  {
+    "image": "confluence-1367948832.png",
+    "height": "22",
+    "width": "25",
+    "shortcut": "(confluence)"
   }
 ]
