@@ -36,7 +36,7 @@
     "image": "winktongue.gif"
   },
   {
-    "shortcut": ">:-(",
+    "shortcut": "&gt;:-(",
     "width": 18,
     "height": 18,
     "image": "angry.png"
@@ -108,7 +108,7 @@
     "image": "oops.png"
   },
   {
-    "shortcut": ":\\",
+    "shortcut": ":\\\\",
     "width": 18,
     "height": 18,
     "image": "slant.png"
@@ -1084,5 +1084,53 @@
     "height": "25",
     "width": "25",
     "shortcut": "(grumpycat)"
+  },
+  {
+    "image": "confluence-1367948832.png",
+    "height": "22",
+    "width": "25",
+    "shortcut": "(confluence)"
+  },
+  {
+    "image": "yougotitdude-1368219664.gif",
+    "height": "25",
+    "width": "48",
+    "shortcut": "(yougotitdude)"
+  },
+  {
+    "image": "clarence-1369414730.png",
+    "height": "29",
+    "width": "25",
+    "shortcut": "(clarence)"
+  },
+  {
+    "image": "branch-1369948509.png",
+    "height": "16",
+    "width": "16",
+    "shortcut": "(branch)"
+  },
+  {
+    "image": "continue-1369948567.png",
+    "height": "16",
+    "width": "16",
+    "shortcut": "(continue)"
+  },
+  {
+    "image": "failed-1369948578.png",
+    "height": "16",
+    "width": "16",
+    "shortcut": "(failed)"
+  },
+  {
+    "image": "successful-1369948592.png",
+    "height": "16",
+    "width": "16",
+    "shortcut": "(successful)"
+  },
+  {
+    "image": "unknown-1369948620.png",
+    "height": "16",
+    "width": "16",
+    "shortcut": "(unknown)"
   }
 ]
