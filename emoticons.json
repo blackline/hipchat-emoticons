@@ -162,40 +162,10 @@
     "image": "wink.png"
   },
   {
-    "image": "38320/shipit-1364398584.png",
+    "image": "38320/beard-1365611012.png",
     "height": "25",
     "width": "25",
-    "shortcut": "(shipit)"
-  },
-  {
-    "image": "38320/metal-1364398618.png",
-    "height": "25",
-    "width": "25",
-    "shortcut": "(metal)"
-  },
-  {
-    "image": "38320/tongue-1364398667.png",
-    "height": "25",
-    "width": "25",
-    "shortcut": "(tongue)"
-  },
-  {
-    "image": "38320/spam-1364483596.png",
-    "height": "25",
-    "width": "30",
-    "shortcut": "(spam)"
-  },
-  {
-    "image": "38320/gnome-1364501531.png",
-    "height": "25",
-    "width": "17",
-    "shortcut": "(gnome)"
-  },
-  {
-    "image": "38320/fire-1364501859.png",
-    "height": "25",
-    "width": "18",
-    "shortcut": "(fire)"
+    "shortcut": "(beard)"
   },
   {
     "image": "38320/bork-1365515159.png",
@@ -204,34 +174,16 @@
     "shortcut": "(bork)"
   },
   {
-    "image": "38320/poop-1365604341.png",
-    "height": "21",
-    "width": "23",
-    "shortcut": "(poop)"
-  },
-  {
-    "image": "38320/shit-1365604384.png",
-    "height": "21",
-    "width": "23",
-    "shortcut": "(shit)"
-  },
-  {
-    "image": "38320/beard-1365611012.png",
-    "height": "25",
-    "width": "25",
-    "shortcut": "(beard)"
-  },
-  {
-    "image": "38320/nyan-1366405347.gif",
-    "height": "18",
-    "width": "25",
-    "shortcut": "(nyan)"
-  },
-  {
     "image": "38320/creosote-1367955355.png",
     "height": "25",
     "width": "25",
     "shortcut": "(creosote)"
+  },
+  {
+    "image": "38320/derrrp-1384201488.png",
+    "height": "25",
+    "width": "30",
+    "shortcut": "(derrrp)"
   },
   {
     "image": "38320/fat-1367955360.png",
@@ -240,16 +192,76 @@
     "shortcut": "(fat)"
   },
   {
-    "image": "38320/shitstorm-1369155383.gif",
+    "image": "38320/fire-1364501859.png",
     "height": "25",
-    "width": "26",
-    "shortcut": "(shitstorm)"
+    "width": "18",
+    "shortcut": "(fire)"
+  },
+  {
+    "image": "38320/gnome-1364501531.png",
+    "height": "25",
+    "width": "17",
+    "shortcut": "(gnome)"
+  },
+  {
+    "image": "38320/hypnotoad-1385403262.gif",
+    "height": "24",
+    "width": "30",
+    "shortcut": "(hypnotoad)"
+  },
+  {
+    "image": "38320/metal-1364398618.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(metal)"
+  },
+  {
+    "image": "38320/nyan-1366405347.gif",
+    "height": "18",
+    "width": "25",
+    "shortcut": "(nyan)"
+  },
+  {
+    "image": "38320/poop-1365604341.png",
+    "height": "21",
+    "width": "23",
+    "shortcut": "(poop)"
   },
   {
     "image": "38320/rollout-1377529310.gif",
     "height": "25",
     "width": "30",
     "shortcut": "(rollout)"
+  },
+  {
+    "image": "38320/shipit-1364398584.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(shipit)"
+  },
+  {
+    "image": "38320/shit-1365604384.png",
+    "height": "21",
+    "width": "23",
+    "shortcut": "(shit)"
+  },
+  {
+    "image": "38320/shitstorm-1369155383.gif",
+    "height": "25",
+    "width": "26",
+    "shortcut": "(shitstorm)"
+  },
+  {
+    "image": "38320/spam-1364483596.png",
+    "height": "25",
+    "width": "30",
+    "shortcut": "(spam)"
+  },
+  {
+    "image": "38320/tongue-1364398667.png",
+    "height": "25",
+    "width": "25",
+    "shortcut": "(tongue)"
   },
   {
     "image": "chris.png",
@@ -786,12 +798,6 @@
     "shortcut": "(wat)"
   },
   {
-    "image": "turkey.png",
-    "height": "25",
-    "width": "22",
-    "shortcut": "(turkey)"
-  },
-  {
     "image": "skyrim.png",
     "height": "35",
     "width": "19",
@@ -1096,5 +1102,17 @@
     "height": "25",
     "width": "25",
     "shortcut": "(huh)"
+  },
+  {
+    "image": "turkey-1386104992.png",
+    "height": "17",
+    "width": "25",
+    "shortcut": "(turkey)"
+  },
+  {
+    "image": "fonzie-1386958620.png",
+    "height": "25",
+    "width": "34",
+    "shortcut": "(fonzie)"
   }
 ]
